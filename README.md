@@ -25,7 +25,7 @@ Please adapt all absolute loading/saving and software paths within the scripts t
 *  [**unumpy**](https://github.com/Quansight-Labs/unumpy)
 
 
-###Data
+### Data
 All groundwater level data in its original form is available free of charge from the respective websites of the local authorities. However, we used data interpolated based on previous knowledge and therefore publish the used data [**HERE**](link). Many thanks at this point for the support to the responsible state authorities, who provided us with the data and allowed a republication.  
 All climate data is available on request and free of charge for non-commercial purposes from the German Meteorological Service.
 
