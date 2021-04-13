@@ -4,8 +4,13 @@ This repository will be updated prior to the publication of the associated paper
 doi of this repo:  
 [![DOI](https://zenodo.org/badge/349114094.svg)](https://zenodo.org/badge/latestdoi/349114094) 
 
+doi of groundwater dataset:  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4683879.svg)](https://doi.org/10.5281/zenodo.4683879)
+
 doi of according publication:  
 XXX - will be added once published  
+
+
 
 This repository enables you to reproduce the results and apply the long-term groundwater level simulation methodology of:     
 ##### **Wunsch, A., Liesch, T., Broda, S., XXX Title**  
@@ -26,6 +31,6 @@ Please adapt all absolute loading/saving and software paths within the scripts t
 
 
 ### Data
-All groundwater level data in its original form is available free of charge from the respective websites of the local authorities. However, we used data interpolated based on previous knowledge and therefore publish the used data [**HERE**](link). Many thanks at this point for the support to the responsible state authorities, who provided us with the data and allowed a republication.  
+All groundwater level data in its original form is available free of charge from the respective websites of the local authorities. However, we used data interpolated based on previous knowledge and therefore publish the used data [**HERE**](https://doi.org/10.5281/zenodo.4683879). Many thanks at this point for the support to the responsible state authorities, who provided us with the data and allowed a publication.  
 All climate data is available on request and free of charge for non-commercial purposes from the German Meteorological Service.
 
