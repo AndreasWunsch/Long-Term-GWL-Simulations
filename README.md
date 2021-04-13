@@ -2,7 +2,7 @@
 This repository will be updated prior to the publication of the associated paper.
 
 doi of this repo:  
-XXX - will be added  
+[![DOI](https://zenodo.org/badge/349114094.svg)](https://zenodo.org/badge/latestdoi/349114094) 
 
 doi of according publication:  
 XXX - will be added once published  
