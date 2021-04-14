@@ -13,7 +13,7 @@ XXX - will be added once published
 
 
 This repository enables you to reproduce the results and apply the long-term groundwater level simulation methodology of:     
-##### **Wunsch, A., Liesch, T., Broda, S., XXX Title**  
+##### **Wunsch, A., Liesch, T., Broda, S., Deep learning shows declining groundwater levels in Germany until 2100 due to climate change (Submitted)**  
 
 Contact: [**andreas.wunsch@kit.edu**](andreas.wunsch@kit.edu)  
 
