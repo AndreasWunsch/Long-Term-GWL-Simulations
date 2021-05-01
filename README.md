@@ -7,13 +7,13 @@ doi of this repo:
 doi of groundwater dataset:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4683879.svg)](https://doi.org/10.5281/zenodo.4683879)
 
-doi of according publication:  
-XXX - will be added once published  
+PREPRINT:  
+[Deep learning shows declining groundwater levels in Germany until 2100 due to climate change](doi.org/10.21203/rs.3.rs-420056/v1) 
 
 
 
 This repository enables you to reproduce the results and apply the long-term groundwater level simulation methodology of:     
-##### **Wunsch, A., Liesch, T., Broda, S., Deep learning shows declining groundwater levels in Germany until 2100 due to climate change (Submitted)**  
+##### **Wunsch, A., Liesch, T., Broda, S., Deep learning shows declining groundwater levels in Germany until 2100 due to climate change (In Review)**  
 
 Contact: [**andreas.wunsch@kit.edu**](andreas.wunsch@kit.edu)  
 
