@@ -8,7 +8,7 @@ doi of groundwater dataset:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4683879.svg)](https://doi.org/10.5281/zenodo.4683879)
 
 PREPRINT:  
-[Deep learning shows declining groundwater levels in Germany until 2100 due to climate change](doi.org/10.21203/rs.3.rs-420056/v1) 
+[Deep learning shows declining groundwater levels in Germany until 2100 due to climate change](https://doi.org/10.21203/rs.3.rs-420056/v1) 
 
 
 
