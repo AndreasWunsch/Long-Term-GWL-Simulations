@@ -1,5 +1,4 @@
 # Long-Term-GWL-Simulations
-This repository will be updated prior to the publication of the associated paper.
 
 doi of this repo:  
 [![DOI](https://zenodo.org/badge/349114094.svg)](https://zenodo.org/badge/latestdoi/349114094) 
@@ -7,13 +6,9 @@ doi of this repo:
 doi of groundwater dataset:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4683879.svg)](https://doi.org/10.5281/zenodo.4683879)
 
-PREPRINT:  
-[Deep learning shows declining groundwater levels in Germany until 2100 due to climate change](https://doi.org/10.21203/rs.3.rs-420056/v1) 
-
-
 
 This repository enables you to reproduce the results and apply the long-term groundwater level simulation methodology of:     
-##### **Wunsch, A., Liesch, T., Broda, S., Deep learning shows declining groundwater levels in Germany until 2100 due to climate change (In Review)**  
+##### **Wunsch, A., Liesch, T. & Broda, S. Deep learning shows declining groundwater levels in Germany until 2100 due to climate change. Nat Commun 13, 1221 (2022). https://doi.org/10.1038/s41467-022-28770-2**  
 
 Contact: [**andreas.wunsch@kit.edu**](andreas.wunsch@kit.edu)  
 
