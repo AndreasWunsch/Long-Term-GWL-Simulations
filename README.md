@@ -26,6 +26,9 @@ Please adapt all absolute loading/saving and software paths within the scripts t
 
 
 ### Data
-All groundwater level data in its original form is available free of charge from the respective websites of the local authorities. However, we used data interpolated based on previous knowledge and therefore publish the used data [**HERE**](https://doi.org/10.5281/zenodo.4683879). Many thanks at this point for the support to the responsible state authorities, who provided us with the data and allowed a publication.  
-All climate data is available on request and free of charge for non-commercial purposes from the German Meteorological Service.
+All groundwater level data in its original form is available free of charge from the respective websites of the local authorities. However, we used data interpolated based on previous knowledge and therefore publish the used data [**HERE**](https://doi.org/10.5281/zenodo.4683879). Many thanks at this point for the support to the responsible state authorities, who provided us with the data and allowed a publication.
 
+All climate data necessary to train the models (HYRAS) is available for free online: https://opendata.dwd.de/climate_environment/CDC/grids_germany/daily/hyras_de/
+Please note that we partly used earlier versions of the HYRAS data, which may cause slight differences in training results. We are currently checking if we are allowed to provide our training forcing data. 
+
+We cannot provide the clima projection forcing data. The  respective model data is available from EURO-CORDEX or after Downscaling with EPISODES directly (and for free for non-comercial purposes) from [**DWD**](https://www.dwd.de/DE/klimaumwelt/klimaforschung/klimaprojektionen/fuer_deutschland/fuer_dtld_rcp-datensatz_node.html).
