@@ -31,4 +31,4 @@ All groundwater level data in its original form is available free of charge from
 All climate data necessary to train the models (HYRAS) is available for free online: https://opendata.dwd.de/climate_environment/CDC/grids_germany/daily/hyras_de/
 Please note that we partly used earlier versions of the HYRAS data, which may cause slight differences in training results. We are currently checking if we are allowed to provide our training forcing data. 
 
-We cannot provide the clima projection forcing data. The  respective model data is available from EURO-CORDEX or after Downscaling with EPISODES directly (and for free for non-comercial purposes) from [**DWD**](https://www.dwd.de/DE/klimaumwelt/klimaforschung/klimaprojektionen/fuer_deutschland/fuer_dtld_rcp-datensatz_node.html).
+We cannot provide the clima projection forcing data. The  respective model data is available from [**EURO-CORDEX**](https://esgf-data.dkrz.de/projects/esgf-dkrz/) or after Downscaling with EPISODES directly (and for free for non-comercial purposes) from [**DWD**](https://www.dwd.de/DE/klimaumwelt/klimaforschung/klimaprojektionen/fuer_deutschland/fuer_dtld_rcp-datensatz_node.html).
